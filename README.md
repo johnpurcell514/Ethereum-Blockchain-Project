@@ -27,3 +27,5 @@ Infura (Blockchain hosting)
 
 **Application Functions**: 
 *coming soon
+
+*See Master branch for code
